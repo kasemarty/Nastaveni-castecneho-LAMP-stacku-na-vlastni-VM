@@ -6,3 +6,4 @@ Bylo pouzito:
 4. Bash
 5. Powershell
 
+Projekt vznikl jako zaverecny ukol Linux Akademie (https://engeto.cz/linux-akademie/) od firmy Engeto.
